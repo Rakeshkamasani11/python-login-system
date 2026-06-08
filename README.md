@@ -86,3 +86,28 @@ Store data in a database
 Add email verification
 Create a graphical user interface (GUI)
 Implement OTP-based password recovery
+
+
+I want to share the output of the prohject
+Welcome to the Python Login System!
+Choose action - Register (R), Login (L), Quit (Q): r
+Enter username (email): rakeshkamasani@gmail.com
+Enter password: Rakesh@11
+Registration successful!
+Choose action - Register (R), Login (L), Quit (Q): L
+Enter username: rakeshkamasani@gmail.com
+Enter password: rakesh@11
+Invalid credentials.
+Do you want to (R)egister or (F)orget Password? f
+Your password is: Rakesh@11
+Do you want to reset your password? (y/n): y
+Enter new password: Rakesh@0447
+Password updated successfully.
+Choose action - Register (R), Login (L), Quit (Q): k
+Invalid option. Please try again.
+Choose action - Register (R), Login (L), Quit (Q): l
+Enter username: rakeshkamasani@gmail.com
+Enter password: Rakesh@0447
+Login successful. Welcome!
+Choose action - Register (R), Login (L), Quit (Q): Q
+Exiting program.
